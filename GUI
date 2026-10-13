@@ -1,2 +1,12 @@
 The assignment name corresponds to the file containing the code
-TKLGS2.1: Viết mô tả VHDL và viết testbench cho Bộ đếm thập phân 2-digit với các đặc điểm: Đếm lùi mode 60, Clock sườn dương, chức năng Reset đồng bộ, chức năng Load (nạp hằng số) đồng bộ, chức năng cho phép CE mức tích cực cao. Ghi chú: Hiển thị kết quả ra LED 7 đoạn.
+PJ_21:  Viết mô tả VHDL và viết testbench cho Bộ đếm thập phân 2-digit với các đặc điểm: 
+        Đếm lùi mode 60, Clock sườn dương, chức năng Reset đồng bộ, chức năng Load (nạp hằng số) đồng bộ, 
+        chức năng cho phép CE mức tích cực cao. Ghi chú: Hiển thị kết quả ra LED 7 đoạn.
+
+PJ_22:  Viết mô tả VHDL và viết testbench cho Bộ đếm thập phân 2-digit với các đặc điểm: 
+        Đếm tiến mode 90, Clock sườn âm, chức năng Reset không đồng bộ, chức năng Load (nạp hằng số) đồng bộ,
+        chức năng cho phép CE mức tích cực thấp. Ghi chú: Hiển thị kết quả ra LED 7 đoạn.
+
+PJ_23:  Viết mô tả VHDL và viết testbench cho Bộ đếm nhị phân 8-bit với các đặc điểm:
+        Đếm tiến và đếm lùi, Clock sườn âm, chức năng Reset không đồng bộ, chức năng Load (nạp hằng số) đồng bộ,
+        chức năng cho phép CE mức tích cực thấp.
